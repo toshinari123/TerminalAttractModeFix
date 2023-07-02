@@ -12,6 +12,6 @@ Run it in another tab using the new open source [Windows Terminal](https://www.h
 - profile name: for windows powershell type "Windows Powershell"
 - path: path to your folder of the good good
 -  sleepseconds: number of seconds to show nothing, defaults to 55
-- activeseconds: number of seconds to show random image, defaults to 55
+- activeseconds: number of seconds to show random image, defaults to 5
 
 feel free to customize!
